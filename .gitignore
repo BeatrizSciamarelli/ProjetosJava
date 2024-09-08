@@ -28,9 +28,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-# Ignora arquivos de configuração de IDE
-.idea/
-*.iml
-# Ignora pastas de build
-/out/
-/target/
