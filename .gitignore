@@ -39,5 +39,19 @@ bin/
 
 # Dependências de Node.js
 node_modules/
-fonte
-SantanderCoders.iml
+
+# Ignorar arquivos de projeto do IntelliJ IDEA
+*.iml
+
+
+build/
+target/
+
+# Outros arquivos e pastas que você não quer rastrear
+*.class
+*.jar
+
+# Ignorar arquivos específicos de IDEs ou ferramentas de desenvolvimento
+*.swp
+*.swo
+*.DS_Store
