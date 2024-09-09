@@ -28,4 +28,14 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.idea
+# Configurações do IntelliJ
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Dependências de Node.js
+node_modules/
